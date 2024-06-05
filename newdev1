@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git revert commit 1
+=======
+this is sample file1
+>>>>>>> refs/remotes/origin/main
